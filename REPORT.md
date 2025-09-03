@@ -47,9 +47,10 @@ The insights are based on data cleaning, pivot table analysis, and the design of
 
 ---
 
-## 📂 Deliverables 
-- `dashboard.xlsx` → Interactive Excel dashboard with slicers & KPIs <a href ="https://github.com/Abhijeet-Kanse/Global-Store-Excel-Dashboard-Project-Sales-Analysis-Insights/blob/main/dashboard.xlsx" </a>
-- `REPORT.md` → This executive summary report  
+## 📂 Deliverables  
+- [`dashboard.xlsx`](https://github.com/Abhijeet-Kanse/Global-Store-Excel-Dashboard-Project-Sales-Analysis-Insights/blob/main/dashboard.xlsx) → Interactive Excel dashboard with slicers & KPIs  
+- [`REPORT.md`](https://github.com/Abhijeet-Kanse/Global-Store-Excel-Dashboard-Project-Sales-Analysis-Insights/blob/main/REPORT.md) → Executive summary report with insights & recommendations  
+
 
 ---Dashboard View <img width="1316" height="661" alt="Screenshot 2025-09-03 204635" src="https://github.com/user-attachments/assets/95a0e242-183c-457b-bbf7-2ba500857739" />
 
