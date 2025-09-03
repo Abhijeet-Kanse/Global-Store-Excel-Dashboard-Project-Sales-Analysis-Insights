@@ -64,5 +64,5 @@ The goal is to showcase professional skills in **data cleaning, transformation, 
 ---
 
 ## 📂 Project Structure  
-- `data/dashboard.xlsx` → Interactive Excel dashboard  
-- `REPORT.md` → Executive summary with insights & recommendations  
+- [`dashboard.xlsx`](https://github.com/Abhijeet-Kanse/Global-Store-Excel-Dashboard-Project-Sales-Analysis-Insights/blob/main/dashboard.xlsx) → Interactive Excel dashboard with slicers & KPIs  
+- [`REPORT.md`](https://github.com/Abhijeet-Kanse/Global-Store-Excel-Dashboard-Project-Sales-Analysis-Insights/blob/main/REPORT.md?plain=1) → Executive summary with insights & recommendations  
