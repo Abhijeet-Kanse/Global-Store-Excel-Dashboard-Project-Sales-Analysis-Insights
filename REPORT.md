@@ -25,7 +25,7 @@ The insights are based on data cleaning, pivot table analysis, and the design of
    - Profitability vs. sales trade-off evaluation  
 
 3. **📉 Dashboard Features**  
-   - KPIs: Total Sales, Profit, Quantity, Avg. Discount  
+   - KPIs: Total Sales, Profit, Quantity 
    - Filters: Region, Category, Segment  
    - Visuals: Bar chart (region), Line chart (monthly trend), Pie chart (category share)  
 
