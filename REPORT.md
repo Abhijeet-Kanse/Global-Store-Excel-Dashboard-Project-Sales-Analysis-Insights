@@ -9,7 +9,7 @@ The insights are based on data cleaning, pivot table analysis, and the design of
 ## 🗂️ Dataset Summary  
 - **Source**: https://github.com/Abhijeet-Kanse/Global-Store-Excel-Dashboard-Project-Sales-Analysis-Insights/blob/main/Global_Superstore2.csv 
 - **Size**: ~10,000 sales transaction records  
-- **Key Fields**: 🗓️ Order Date • 🌍 Region • 📦 Category/Sub-Category • 💰 Sales • 📈 Profit • 🔢 Quantity • 🎟️ Discount  
+- **Key Fields**: 🗓️ Order Date • 🌍 Region • 📦 Category/Sub-Category • 💰 Sales • 📈 Profit • 🔢 Quantity •  
 
 ---
 
